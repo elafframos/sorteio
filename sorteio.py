@@ -1,6 +1,6 @@
 import random
 
-print('\nSORTEIO\n')
+print('\nSORTEIO DE NÚMEROS\n')
 
 começo = int(input('Digite de onde vai começar o sorteio: '))
 fim = int(input('Digite o último número do sorteio: '))
